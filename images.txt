@@ -1,1 +1,1 @@
-nginx:latest
+opengauss/opengauss:tagname
